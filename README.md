@@ -12,7 +12,7 @@ Once you have Qt and Qt Design Studio installed, head over to Qt Academy and fol
 
 To run the project, navigate to the folder in Qt Design Studio and open the `Demo1.qmlproject` file. Build and run the project in Qt DesignStudio. The application will launch, and you will see it at its current stage.
 
-# Resouces
+# Resources
 If you need additional help, the following resources may be helpful:
 
 - Qt Documentation: https://doc.qt.io
